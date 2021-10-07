@@ -40,7 +40,7 @@ const hannsykes = {
 <br />
 <br />
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=HannSykes&theme=onedark" alt="MrBlueBird2" />
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=HannSykes&theme=onedark" alt="HannSykes" />
 </p>
 
 #### Contribution Graph
