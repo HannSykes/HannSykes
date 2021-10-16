@@ -1,8 +1,7 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/HannSykes">HannSykes</a> Profile 👋</h1>
 </p>
-<P>
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+HannSykes;I'm+a+Learning+JavaScript And Python" /></a>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+HannSykes;I'm+a+Learning+JavaScript+And+Python" /></a>
 </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
